@@ -1,0 +1,2 @@
+# Chatbot-Final-Project-COGS18
+For the project, I chose to extend the chatbot we built in A3. As seen in the module file, I gave the chatbot information regarding mental disorders including depression, bipolar, delusional disorder, schizophrenia, schizophreniform disorder, and schizoaffective disorder. When asked, the output returns information about these disorders, including definition, cause, prevalence, symptom, and treatment.
